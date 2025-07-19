@@ -21,7 +21,7 @@ This repository’s core is a fully containerized workflow, allowing for identic
 [![Docker Architecture Diagram](/images/test-1.png)](https://github.com/drink36/AutoMLOps-Cloud)
 <p align="center"><span style="font-size:90%;color:#888;">Dockerized architecture: Unified logic for both local and cloud workflows, ensuring portability and reproducibility.</span> </p>
 
-**Real-World Value or Result**
+**Real-World Value**
 
 This architecture serves as a practical blueprint for deploying real-time customer prediction systems in business settings, drastically reducing deployment cycles and making rapid model iteration easy.
 

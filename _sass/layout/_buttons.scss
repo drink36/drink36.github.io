@@ -151,4 +151,12 @@
   &--small {
     font-size: $type-size-7;
   }
+
+  &--primary {
+    background: #9a9a9a !important;
+    &:hover,
+    &:focus {
+    background: #585858 !important;
+    }
+  }
 }

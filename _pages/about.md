@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I’m Hsiu-Chen (Connor) YU, an M.S. in Computer Science and Engineering student at [The Ohio State University](https://cse.osu.edu/), focusing on Artificial Intelligence and Machine Learning.
+Hi, I’m Hsiu-Chen YU (Connor), an M.S. in Computer Science and Engineering student at [The Ohio State University](https://cse.osu.edu/), focusing on Artificial Intelligence and Machine Learning.
 
 I graduated from [NTUST](https://www.csie.ntust.edu.tw/index.php?Lang=en) (B.S. in CSIE) and worked as a Data Analysis Engineer at Artifact Tech, where I developed MLOps pipelines and built cloud-based AI applications.
 

@@ -1,6 +1,6 @@
 ---
 title: "AutoMLOps-Cloud"
-excerpt: "A comprehensive MLOps blueprint for customer purchase forecasting, leveraging containerized SageMaker workflows and automated AWS deployments.<br/><a href='https://github.com/drink36/AutoMLOps-Cloud'><img src='/images/test-1.png' style='width:350px; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,.1);'></a>"
+excerpt: "A comprehensive MLOps blueprint for customer purchase forecasting, leveraging containerized SageMaker workflows and automated AWS deployments.<br/><a href='https://github.com/drink36/AutoMLOps-Cloud'><img src='/images/test-1.png' style='width:350px; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,.1);'></a><br/><span style='font-size:90%;color:#888;'>Dokcer Container Architecture</span>"
 collection: projects
 ---
 

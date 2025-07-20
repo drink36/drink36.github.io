@@ -1,6 +1,6 @@
 ---
 title: "MAE-DFER-CA"
-excerpt: "Efficient self-supervised dynamic facial emotion recognition, integrating channel attention into MAE-DFER for improved accuracy and reduced computational cost.<br/><a href='https://github.com/drink36/MAE-DFER-CA'><img src='/images/Model.png' style='width:350px; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,.1);'></a>"
+excerpt: "Efficient self-supervised dynamic facial emotion recognition, integrating channel attention into MAE-DFER for improved accuracy and reduced computational cost.<br/><a href='https://github.com/drink36/MAE-DFER-CA'><img src='/images/Model.png' style='width:350px; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,.1);'></a><br/><span style='font-size:90%;color:#888;'>Overview of MAE-DFER-CA</span>"
 collection: projects
 ---
 

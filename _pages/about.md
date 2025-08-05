@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalink: /HSIU-CHEN-YU/
 title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   - /ConnorYU
-  - /HSIU-CHEN-YU
+  - /
   - /HSIUCHENYU
 ---
 

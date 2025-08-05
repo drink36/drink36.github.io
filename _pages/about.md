@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
 
 
@@ -17,3 +18,6 @@ My main interests are in computer vision and practical machine learning. I’ve 
 Outside of tech, you’ll usually find me enjoying games, anime, or cooking something new at home—but I never say no to a good meal or a fun night out with friends.
 
 Feel free to explore my website or connect with me on LinkedIn!
+
+![](/images/painting.png)
+<p align="center"><span style="font-size:90%;color:#888;">One of my all-time favorite works of art.</span> </p>

@@ -21,5 +21,5 @@ Outside of tech, you’ll usually find me enjoying games, anime, or cooking some
 
 Feel free to explore my website or connect with me on LinkedIn!
 
-![](/images/painting.png)
+![](/images/painting.jpg)
 <p align="center"><span style="font-size:90%;color:#888;">One of my all-time favorite works of art.</span> </p>

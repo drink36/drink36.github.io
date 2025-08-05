@@ -26,7 +26,6 @@ This enables presenters to adjust content dynamically and better connect with th
 
 [![Demo](/images/Emotion_ex.png)](https://github.com/drink36/LERA-BFERT)  
 <p align="center"><span style="font-size:90%;color:#888;">Click the image to view on GitHub.</span> </p>
-**
 
 [View on GitHub](https://github.com/drink36/LERA-BFERT){: .btn .btn--primary } | 
 [View Poster](https://github.com/drink36/LERA-BFERT/blob/main/pic/Project_Poster.png){: .btn .btn--primary } | 

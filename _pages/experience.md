@@ -6,16 +6,29 @@ redirect_from:
   - /experience.html
 ---
 
-## Work Experience
+## Engineering Experience
+
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>Perception Team Member, Buckeye Autodrive</strong></div>
+  <div>Jan. 2024 — Mar. 2025</div>
+</div>
+
+- Implement perception modules for autonomous driving systems, leveraging YOLO for object detection and 
+SLAM for localization within ROS2 pipelines to enhance scene understanding. 
+- Build 2D/3D environment models by fusing LiDAR and camera data, improving obstacle detection and 
+navigation safety. 
+- Collaborate with 50+ teammates across sensing, controls, and safety at OSU’s CAR to align progress and 
+integration. 
 
 <div style="display: flex; justify-content: space-between;">
   <div><strong>Data Analysis Engineer, Artifact Tech</strong></div>
   <div>Jan. 2024 — Mar. 2025</div>
 </div>
 
-- Contributed to data analysis and backend development for LPG_CLOUD, enhancing gas tracking accuracy. 
-- Built web functions, including financial pages, using JavaScript, Python, and SQL, and integrated LINE Bot API 
-to improve user interaction, gaining interest from five+ clients.
+-  Designed and implemented a time-series forecasting pipeline for LPG demand prediction, improving accuracy 
+by 10% compared to baseline averages and enabling scheduled retraining. 
+- Built customer-facing dashboards with TypeScript, Python, and SQL, and integrated a LINE Bot API adopted 
+by more than clients, streamlining reporting workflows and enhancing user engagement. 
 
 
 ## Additional Experience
@@ -26,7 +39,7 @@ to improve user interaction, gaining interest from five+ clients.
   <div>Oct. 2023 — Jan. 2024</div>
 </div>
 
-- Mentored Kenyan students in AI software (Playground.ai) to develop ESG solutions.
+- Mentored Kenyan students for more than twenty hours in AI software (Playground.ai) to develop ESG solutions.
 
 [View Post](https://www.linkedin.com/posts/hsiu-chen-yu_volunteer-culturalexchange-activity-7146229752960278528-9xzR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0OpicBR1UKtDzc_ukgfbG1aLh-p4kv0AI){: .btn .btn--primary }
 
